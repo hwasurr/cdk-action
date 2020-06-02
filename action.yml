@@ -1,0 +1,6 @@
+name: "cdk-action"
+author: "hwasurr <iamsupermazinga@gmail.com>"
+description: "cdk"
+runs:
+  using: "docker"
+  image: "Dockerfile"
